@@ -7,7 +7,7 @@ if __name__ == "__main__":
     filepath = sys.argv[1] if len(sys.argv) > 1 else None
 
     try:
-        print(json.dumps(iterm2_colors2rgb(filepath)))
+        print(iterm2_colors2rgb(filepath))
 
     except Exception as exc:
         sys.exit(str(exc))
