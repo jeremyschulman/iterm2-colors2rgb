@@ -17,7 +17,7 @@ below. You can then either use this package directly or programaticaly.
 **direct module**<br/>
 Consider an iTerm profile with color values that look like this in the app:
 
-![colors in iTerm](iterm2-profile-colors.png)
+![colors in iTerm](https://github.com/jeremyschulman/iterm2-colors2rgb/blob/master/iterm2-profile-colors.png)
 
 
 After exporting these settings to the default filename "Untitled.itemcolors",
@@ -53,7 +53,7 @@ pip install iterm2-colors2rgb
 
 # Exporting Profile Colors from iTerm
 
-![export steps](export-steps.png)
+![export steps](https://github.com/jeremyschulman/iterm2-colors2rgb/blob/master/export-steps.png)
 
 Steps:
 
